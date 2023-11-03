@@ -9,9 +9,9 @@ const Testimonials = () => {
             <figure class="p-6 my-12">
                 <div class="bg-indigo-700 dark:bg-black pl-14 pr-8 py-12 rounded-3xl relative">
                     <p 
-                        class="text-2xl sm:text-3xl-text-left mt-2 text-white dark:text-slate-400 before:content-['\201C'] before:font-serif before:absolute before:top-0 before:left-0 before:text-9xl before:text-white before:opacity-25 before:transform before:translate-x-2 before:translate-y-2
-                        after:content-['\201D'] after:font-serif after:absolute after:-bottom-20 after:right-0 after:text-9xl after:text-white after:opacity-25 after:transform after:-translate-x-2 after:-translate-y-2">
-                        Anvil has always been there for me. Their Explorer StartShip brought joy in my life. Life-long customer! A++ journey experience.
+                        class="text-2xl sm:text-3xl-text-left mt-2 text-white dark:text-slate-400  before:font-serif before:absolute before:top-0 before:left-0 before:text-9xl before:text-white before:opacity-25 before:transform before:translate-x-2 before:translate-y-2
+                         after:font-serif after:absolute after:-bottom-20 after:right-0 after:text-9xl after:text-white after:opacity-25 after:transform after:-translate-x-2 after:-translate-y-2">
+                        &#8243;Anvil has always been there for me. Their Explorer StartShip brought joy in my life. Life-long customer! A++ journey experience.&#8243;
                         
                     </p>
                 </div>
@@ -22,9 +22,9 @@ const Testimonials = () => {
             <figure class="p-6 my-12">
                 <div class="bg-indigo-700 dark:bg-black pl-14 pr-8 py-12 rounded-3xl relative">
                     <p 
-                        class="text-2xl sm:text-3xl-text-left mt-2 text-white dark:text-slate-400 before:content-['\201C'] before:font-serif before:absolute before:top-0 before:left-0 before:text-9xl before:text-white before:opacity-25 before:transform before:translate-x-2 before:translate-y-2
-                        after:content-['\201D'] after:font-serif after:absolute after:-bottom-20 after:right-0 after:text-9xl after:text-white after:opacity-25 after:transform after:-translate-x-2 after:-translate-y-2">
-                        The Adventurer StartShip has very classy and futuristic design so I ordered one, but they sent me an old model<span class="italic">This makes me very, very angry!</span> Nevertheless, me and my cute fluffy dog have awarded StartShip Enterprise the Martian contract for space exploration StartShips based on StartShip Enterprise's quality and sturdy designs.
+                        class="text-2xl sm:text-3xl-text-left mt-2 text-white dark:text-slate-400 before:font-serif before:absolute before:top-0 before:left-0 before:text-9xl before:text-white before:opacity-25 before:transform before:translate-x-2 before:translate-y-2
+                         after:font-serif after:absolute after:-bottom-20 after:right-0 after:text-9xl after:text-white after:opacity-25 after:transform after:-translate-x-2 after:-translate-y-2">
+                        &#8243;The Adventurer StartShip has very classy and futuristic design so I ordered one, but they sent me an old model<span class="italic">This makes me very, very angry!</span> Nevertheless, me and my cute fluffy dog have awarded StartShip Enterprise the Martian contract for space exploration StartShips based on StartShip Enterprise's quality and sturdy designs.&#8243;
                         
                     </p>
                 </div>
@@ -35,9 +35,9 @@ const Testimonials = () => {
             <figure class="p-6 my-12">
                 <div class="bg-indigo-700 dark:bg-black pl-14 pr-8 py-12 rounded-3xl relative">
                     <p 
-                        class="text-2xl sm:text-3xl-text-left mt-2 text-white dark:text-slate-400 before:content-['\201C'] before:font-serif before:absolute before:top-0 before:left-0 before:text-9xl before:text-white before:opacity-25 before:transform before:translate-x-2 before:translate-y-2
-                        after:content-['\201D'] after:font-serif after:absolute after:-bottom-20 after:right-0 after:text-9xl after:text-white after:opacity-25 after:transform after:-translate-x-2 after:-translate-y-2">
-                        I knew I not only wanted &#8212; <span class="italic">I needed</span> &#8212; StartShip Enterprise's Infinity StartShips for my mission in space. StartShip Enterprise delivered in one day! Now, Woody and I can travel <q class="italic">To Infinity and Beyond</q>! 💯
+                        class="text-2xl sm:text-3xl-text-left mt-2 text-white dark:text-slate-400 before:font-serif before:absolute before:top-0 before:left-0 before:text-9xl before:text-white before:opacity-25 before:transform before:translate-x-2 before:translate-y-2
+                         after:font-serif after:absolute after:-bottom-20 after:right-0 after:text-9xl after:text-white after:opacity-25 after:transform after:-translate-x-2 after:-translate-y-2">
+                        &#8243;I knew I not only wanted &#8212; <span class="italic">I needed</span> &#8212; StartShip Enterprise's Infinity StartShips for my mission in space. StartShip Enterprise delivered in one day! Now, Woody and I can travel <q class="italic">To Infinity and Beyond</q>! 💯&#8243;
                         
                     </p>
                 </div>
