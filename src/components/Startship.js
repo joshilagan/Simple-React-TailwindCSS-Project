@@ -2,7 +2,7 @@ import React from 'react'
 
 const Startship = () => {
   return (
-    <section id="startship" class="p-6 my-12 scroll-mt-20 widescreen:section-min-height tallscreen:section-min-height">
+    <section id="startship" class="p-6 my-12 scroll-mt-20 widescreen:section-min-height tallscreen:section-min-height max-w-4xl mx-auto">
             <h2 class="text-4xl font-bold text-center sm:text-5xl mb-6 text-slate-900 dark:text-white">
                 Our StartShips
             </h2>

@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <section id="hero"
-            class="flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12 scroll-mt-40 widescreen:section-min-height tallscreen:section-min-height">
+            class="flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12 scroll-mt-40 widescreen:section-min-height tallscreen:section-min-height max-w-4xl mx-auto">
             <article class="sm:w-1/2">
 
                 <h2
